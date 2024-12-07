@@ -1,0 +1,22 @@
+Model Configuration:
+Base model: bert-base-uncased
+Number of labels: 3
+Test metrics:
+accuracy: 0.7748
+precision: 0.7802
+recall: 0.7748
+f1: 0.7742
+
+Attack Patterns:
+SememePSO: 88 examples
+TextFooler: 62 examples
+TextBugger: 178 examples
+SemAttack: 74 examples
+BERT-ATTACK: 53 examples
+SCPN: 28 examples
+T3: 64 examples
+StressTest: 75 examples
+CheckList: 84 examples
+AdvFever: 2 examples
+ANLI: 22 examples
+AdvSQuAD: 8 examples
